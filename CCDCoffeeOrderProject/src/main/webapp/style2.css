@@ -1,0 +1,71 @@
+img{
+height:500px;
+width:1430px;
+
+}
+body{
+background-color:black;
+height: 100%;
+margin: 0;}
+
+.intro{
+color:LightGrey;
+padding:30px 100px;
+text-align:center;
+}
+
+.cardtext{
+color: black;
+text-align: center;
+padding:50px 50px  ;
+}
+.ordersubmit{
+text-align:center}
+
+a{
+background-color: black;
+  border: 3px solid red;
+  color: white; /* Text color */
+  padding: 20px 40px; /* Space inside the button */
+  text-align: center; /* Centers text */
+  display: inline-block; /* Allows setting padding and margin */
+  font-size: 20px; /* Font size of text */
+  text-decoration: none;
+
+}
+a:hover {
+  background-color: white; /* Changes background color on hover */
+  color: black; /* Changes text color on hover */
+  border-color: white; /* Keeps the border color consistent */
+}
+.takeOrderDiv{
+text-align:center;}
+
+.form-label{
+color:white;
+ padding:10px 20px;
+ margin: 20px 10px;
+ border: 2px solid red
+}
+h2{
+color:white;
+}
+.form-control{
+color:white;
+ padding:10px 20px;
+ margin: 20px 10px;
+ color:black;
+}
+.btnSubmit{
+margin: 30px 10px;
+height:30px;
+width:150px;
+}
+
+.btnSubmit:hover{
+border: 2px solid red;
+}
+h4{
+padding:30px 100px 0px 100px;
+text-align:center;
+color:black;}
